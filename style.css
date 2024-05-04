@@ -367,11 +367,11 @@ header {
     .description {
         width: 90%;
         position: absolute;
-        bottom: 0;
+        bottom: 40px;
         left: 50%;
         transform: translateX(-50%);
-        opacity: 0;
-        transition: 0.6s ease-in;
+        opacity: 1;
+      
     }
 
     .description h3 {
@@ -379,7 +379,7 @@ header {
     }
 
     .description p {
-        margin-bottom: 12px;
+        margin-bottom: 20px;
         font-size: small;
     }
 
@@ -390,7 +390,7 @@ header {
 
     .categorie_unique:hover .description {
         opacity: 1;
-        bottom: 20%;
+      
     }
 
 
@@ -474,11 +474,11 @@ header {
     .description {
         width: 90%;
         position: absolute;
-        bottom: 0;
+        bottom: 30px;
         left: 50%;
         transform: translateX(-50%);
-        opacity: 0;
-        transition: 0.6s ease-in;
+        opacity: 1;
+       
     }
 
     .description h3 {
@@ -497,7 +497,7 @@ header {
 
     .categorie_unique:hover .description {
         opacity: 1;
-        bottom: 20%;
+      
     }
 
 
@@ -585,11 +585,11 @@ header {
     .description {
         width: 90%;
         position: absolute;
-        bottom: 0;
+        bottom: 60px;
         left: 50%;
         transform: translateX(-50%);
-        opacity: 0;
-        transition: 0.6s ease-in;
+        opacity: 1;
+       
     }
 
     .description h3 {
@@ -608,13 +608,13 @@ header {
 
     .categorie_unique:hover .description {
         opacity: 1;
-        bottom: 20%;
+      
     }
 
 
 }
 
-/*7777777777777777777777777777777777taille  (min-width: 526px) and (max-width: 724px) 7777777777777777777777777777777*/
+/*77777777777777777777777777777edededed77777taille  (min-width: 526px) and (max-width: 724px) 7777777777777777777777777777777*/
 
 
 
@@ -692,11 +692,11 @@ header {
     .description {
         width: 90%;
         position: absolute;
-        bottom: 0;
+        bottom: 20px;
         left: 50%;
         transform: translateX(-50%);
-        opacity: 0;
-        transition: 0.6s ease-in;
+        opacity: 1;
+        
     }
 
     .description h3 {
@@ -715,7 +715,7 @@ header {
 
     .categorie_unique:hover .description {
         opacity: 1;
-        bottom: 20%;
+       
     }
 
 
@@ -798,11 +798,11 @@ header {
     .description {
         width: 100%;
         position: absolute;
-        bottom: 0;
+        bottom: 20px;
         left: 50%;
         transform: translateX(-50%);
-        opacity: 0;
-        transition: 0.6s ease-in;
+        opacity: 1;
+        
     }
 
     .description h3 {
@@ -821,7 +821,7 @@ header {
 
     .categorie_unique:hover .description {
         opacity: 1;
-        bottom: 20%;
+       
     }
 
 
@@ -905,11 +905,11 @@ header {
     .description {
         width: 100%;
         position: absolute;
-        bottom: 0;
+        bottom: 10px;
         left: 50%;
         transform: translateX(-50%);
-        opacity: 0;
-        transition: 0.6s ease-in;
+        opacity: 1;
+        
     }
 
     .description h3 {
@@ -928,7 +928,7 @@ header {
 
     .categorie_unique:hover .description {
         opacity: 1;
-        bottom: 20%;
+        
     }
 
 
